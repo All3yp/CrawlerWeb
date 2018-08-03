@@ -1,4 +1,3 @@
-README.MD
 
 This tool has as main objective to provide to the user the facility in capturing certain types of information, like links and emails.
 
